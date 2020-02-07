@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BOSH_CLI=5.5.1
+BOSH_CLI=6.2.0
 OM_CLI=2.0.1
 PIVNET_CLI=0.0.60
 
